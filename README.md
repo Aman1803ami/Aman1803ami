@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @Aman1803ami
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on anyone who is passionate
-- 📫 How to reach me  my email ami1803aman@gmail.com
+# 👋 Hello, I'm Aman Singh
 
-<!---
-Aman1803ami/Aman1803ami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software developer with a love for open-source projects and a mission to make the digital world a better place.
+
+🌍 I'm currently based in Mumbai, a student.
+
+## 🚀 My Expertise
+
+- 💻 Programming Languages: ,PYTHON ,C++,JAVA,
+- 🌐 Web Development: Front hand
+- 📱 Mobile App Development: Android studio
+
+
+## 🌱 I'm Currently Learning
+
+I'm always eager to learn and stay updated with the latest trends. Currently, I'm diving into:
+
+- Machine Learning
+
+## 📫 Let's Connect
+
+Feel free to reach out and connect with me:
+
+- 📧 Email: ami1803aman@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/Aman Singh/
+
+
+## 🤝 Let's Collaborate
+
+I'm open to collaborating on exciting projects. If you have an idea or want to work together, please don't hesitate to get in touch. Let's build something amazing!
+
+Thanks for stopping by! Let's code, create, and collaborate. 👩‍💻🚀
+
