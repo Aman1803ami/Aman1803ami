@@ -22,7 +22,7 @@ I'm always eager to learn and stay updated with the latest trends. Currently, I'
 Feel free to reach out and connect with me:
 
 - 📧 Email: ami1803aman@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/Aman Singh/
+- 💼 LinkedIn: https://www.linkedin.com/in/AmanSingh/
 
 
 ## 🤝 Let's Collaborate
