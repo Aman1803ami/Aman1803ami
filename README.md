@@ -59,5 +59,4 @@ Business automation platform for intelligent workflow execution.
 
 LinkedIn: https://www.linkedin.com/in/aman-singh-5082711b8
 Portfolio: https://aman1803ami.github.io/
-- ⚡ Fun fact: ...
--->
+
